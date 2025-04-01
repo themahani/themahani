@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-a-mahani)
 
 [![GitHub Stars](https://img.shields.io/github/stars/themahani?style=social)](https://github.com/themahani?tab=repositories)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=themahani&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=themahani)](https://git.io/streak-stats)
 
 I'm a Machine Learning Scientist (AKA, an *AI Nerd* 😉) with a passion for automation and crafting tools that make life easier. I thrive on building solutions that leverage APIs to conquer those repetitive, time-consuming tasks we all dread.
 
