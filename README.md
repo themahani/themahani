@@ -22,8 +22,8 @@ In my spare time, I like exploring **APIs**, **Network Protocols**, and **DevOps
 
 ## 📊 GitHub Stats
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=themahani&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themahani&layout=compact&theme=default)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=themahani&show_icons=true&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=themahani&layout=compact&theme=tokyonight)
 
 ## 📌 Featured Repositories
 
