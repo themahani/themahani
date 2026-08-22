@@ -1,23 +1,18 @@
-# 👋 Hi, I'm Ali Mahani
+# 👋 Hi...
 
-I'm a Machine Learning Scientist with a BSc in Physics and a deep love for automation, DevOps, and open-source software. I thrive on building tools that reduce friction and eliminate repetitive tasks.
+I'm a physicist who likes to make computers do things. I have a MSc in Physics specializing in computational neuroscience. Currently working on neuromorphic computing frameworks.
 
-Currently, I'm pursuing an MSc in Computational Neuroscience at the University of Calgary. My thesis focuses on 
-**Reservoir Computing using FORCE training** for time series prediction.
-
-In my spare time, I like exploring **APIs**, **Network Protocols**, and **DevOps Tools**.
-
-**Fun Fact:** I'm obssessed with efficiency and thrive on building efficient and optimized tools.
+In my spare time, I like reading on financial engineering and occasionally write about stuff in my [blog](https://themahani.github.io).
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python, C/C++, JavaScript, Bash, LaTeX
+- **Languages:** Python, C/C++, q/kdb+, Bash, LaTeX
 - **Tools:** Git, Docker, K8s, CI/CD, NeoVim, Tmux, VSCode
 - **OS:** Arch Linux (since 2018)
 
 ## 🔨 Projects & Highlights
 
-- 💻 My [dotfiles](https://github.com/themahani/dotfiles) power my Linux workflow. I've tried to keep it minimal. PRs are welcome. :)
+- 💻 My [dotfiles](https://github.com/themahani/dotfiles) are a relatively minimal. I use [neovim](https://neovim.io/), [tmux](https://tmux.app/), [kitty](https://sw.kovidgoyal.net/kitty/), and last but not least, [hyprland](https://hypr.land/).
 - ⚙️ I'm currently focused on delving deeper into neuromorphic computing, including both software and hardware design.
 - 📈 In my spare time, I study financial mathematics.
 
